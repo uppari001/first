@@ -1,2 +1,3 @@
 this is feature2 file
+this is 2nd line
 
