@@ -1,0 +1,148 @@
+[33mcommit f6a16b5f7597b5e42837ec5d954adfc33541dbca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 03:53:46 2022 +0000
+
+    xRevert "added new file in feature2 file"
+    
+    This reverts commit d95eeb9880c67925fb3e94a3ce035cab14f55216.
+
+[33mcommit 9318371d262f15c4a8c1e8303c97b964863a2a61[m
+Merge: d95eeb9 2ecb6c8
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 03:49:28 2022 +0000
+
+    Merge branch 'master' of github.com:uppari001/first
+
+[33mcommit d95eeb9880c67925fb3e94a3ce035cab14f55216[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 03:48:34 2022 +0000
+
+    added new file in feature2 file
+
+[33mcommit 2ecb6c874a20683166c4c34bc06da260b3f86423[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Sun Apr 24 17:53:13 2022 +0530
+
+    Delete phone.txt
+
+[33mcommit 9d8db3a2c7efde0fdfa0b41cf52c0a8965a054b7[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Sun Apr 24 17:52:57 2022 +0530
+
+    Delete siri.txt
+
+[33mcommit 98f71275135f5a189e92fc657e8ac84b26d28353[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Sun Apr 24 17:51:31 2022 +0530
+
+    Delete sailu.txt
+
+[33mcommit b2c4fab9aa18fbfd21f2ca93b28553983c6f1136[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sun Apr 24 08:18:43 2022 +0000
+
+    adding phone line
+
+[33mcommit ed16e5ce01cfa39823e7ca9156cd84282145d87d[m[33m ([m[1;33mtag: v1.1[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 14:38:20 2022 +0000
+
+    addoing example file
+
+[33mcommit 1a0585b2ad8f44c2dd3d9854ba1458cc3ca69574[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 12:53:35 2022 +0000
+
+    adding feature2 file
+
+[33mcommit f582c2916db879300f7f0f63304faf4a25b1f06d[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 12:48:18 2022 +0000
+
+    adding feature file
+
+[33mcommit 4bf4522742b78b9df64d2c7447c995aeaa3e696e[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Sat Apr 23 14:14:55 2022 +0530
+
+    Update sample.txt
+
+[33mcommit fd65ef0c7a9895f6a2baeb8c39d41f06d7512107[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Sat Apr 23 13:52:44 2022 +0530
+
+    Update sailu.txt
+
+[33mcommit 41cee17988635c13900c36335ef199892764c2b3[m
+Merge: 0ba33ed ebe8bdd
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 08:17:59 2022 +0000
+
+    Merge branch 'master' of github.com:uppari001/first
+
+[33mcommit 0ba33ed7478c26e32c73d489913dcb5a304fe35b[m[33m ([m[1;33mtag: v1.2[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 08:17:08 2022 +0000
+
+    adding 6th line
+
+[33mcommit ebe8bdde16c34be4695817d7256832ec862f9e0a[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Sat Apr 23 13:44:49 2022 +0530
+
+    Create wednesday.txt
+
+[33mcommit 88b4587fe5d2106e1154b187a7546411d469292e[m
+Merge: ec39a00 bd9ec94
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 07:49:12 2022 +0000
+
+    adding conflict resolve
+
+[33mcommit ec39a006db30baab3890aaf8f2162c53881f16c5[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 07:43:02 2022 +0000
+
+    adding naresh line
+
+[33mcommit bd9ec947117c999c9c0449b3da81cae870104676[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Sat Apr 23 13:08:44 2022 +0530
+
+    Update sample.txt
+
+[33mcommit 935ab71b5205fedfeb2464fa3efd8c82050a70f4[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 07:33:33 2022 +0000
+
+    adding punu filre-a
+
+[33mcommit db146be83b9d6a2d251495bc063fd37c1b64e844[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 07:31:25 2022 +0000
+
+    adding punu file
+
+[33mcommit cc38ca1250a9dfa9182c07448981f9b49a2f754f[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 03:43:32 2022 +0000
+
+    adding siri filesiri.txt
+
+[33mcommit fb8b67209e08d200bfd35712cb72c6898c221ee8[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 03:34:07 2022 +0000
+
+    adding sailu file second linesailu.txt
+
+[33mcommit ead87461d496aaca682ce16b39ed8cd775b1fd8e[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 03:26:27 2022 +0000
+
+    adding sailu.txt file
+
+[33mcommit eb20011db39c0354b930bd6c2d03d6f393cd7341[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Sat Apr 23 03:18:53 2022 +0000
+
+    adding naresh file
